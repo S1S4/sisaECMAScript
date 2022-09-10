@@ -16,3 +16,4 @@ function newAdmin(name = 'Sisadmin', age = 22, country = 'VE') {
 
 newAdmin();
 newAdmin('Pepe', 43, '9asdf');
+// para los parametros por defecto
