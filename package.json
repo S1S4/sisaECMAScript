@@ -12,5 +12,6 @@
     "cursoplatzi"
   ],
   "author": "Cesar Perez <cesar_zhiro26@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
