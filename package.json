@@ -13,5 +13,8 @@
   ],
   "author": "Cesar Perez <cesar_zhiro26@hotmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
